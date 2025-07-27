@@ -1,0 +1,2 @@
+# InternIntelligence_DataScientist
+Internship Projects for Intern Intelligence
